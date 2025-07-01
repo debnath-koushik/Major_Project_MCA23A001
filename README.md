@@ -3,6 +3,28 @@
 ## Project Title
 **A Comparative Study on Denoising of Megapixel and Gigapixel Histopathological Images for Improved Classification of Lung Carcinoma**
 
+---
+
+## Group Information
+
+### Project Group Code: **MCA23A001**
+
+### Mentor: **Dr. Jayanta Aich**, Associate Professor
+
+Department of Computational Sciences, Brainware University
+
+### Group Members
+
+| Name              | Student Code   | Registration Number |
+| ----------------- | -------------- | ------------------- |
+| Koushik Debnath   | BWU/MCA/23/060 | 23012005171         |
+| Soma Bar          | BWU/MCA/23/026 | 23012005139         |
+| Janardan Mandal   | BWU/MCA/23/028 | 23012005141         |
+| Sobhanjan Mahanta | BWU/MCA/23/122 | 23012005229         |
+| Saikat Mainan     | BWU/MCA/23/038 | 23012005150         |
+
+---
+
 ## Abstract
 Lung cancer remains one of the most lethal cancers globally, often diagnosed in later stages. This project addresses the classification of lung carcinoma using deep learning on histopathological images. The study compares denoising techniques, particularly the Non-Local Means (NLM) algorithm, to enhance image quality and improve classification accuracy using a Convolutional Neural Network (CNN). The proposed model effectively distinguishes between **adenocarcinoma** and **squamous cell carcinoma**, even in noisy image conditions.
 
