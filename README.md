@@ -19,7 +19,7 @@ Department of Computational Sciences, Brainware University
 | ----------------- | -------------- | ------------------- |
 | Koushik Debnath   | BWU/MCA/23/060 | 23012005171         |
 | Soma Bar          | BWU/MCA/23/026 | 23012005139         |
-| Janardan Mandal   | BWU/MCA/23/028 | 23012005141         |
+| Janarddan Mandal   | BWU/MCA/23/028 | 23012005141         |
 | Sobhanjan Mahanta | BWU/MCA/23/122 | 23012005229         |
 | Saikat Mainan     | BWU/MCA/23/038 | 23012005150         |
 
