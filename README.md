@@ -30,13 +30,11 @@ Lung cancer remains one of the most lethal cancers globally, often diagnosed in 
 - Resolution: 512x512 pixels
 - Augmented using: `Augmentor` library
 
----
-
 Due to privacy and ethical concerns, the original clinical dataset used in this research (collected from Barasat Hospital and Gujarat Cancer Research Institute) cannot be shared.
 
 However, for demonstration and testing purposes, we used a public dataset from Kaggle:
 
-### ✅ Test Dataset Used: [LC25000 - Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
+### Test Dataset Used: [LC25000 - Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
 
 - **Total Images:** 25,000  
 - **Image Size:** 768 x 768 pixels  
@@ -44,13 +42,13 @@ However, for demonstration and testing purposes, we used a public dataset from K
 - **Augmented From:** 750 lung tissue and 500 colon tissue samples  
 - **Tool Used for Augmentation:** [Augmentor](https://github.com/mdbloice/Augmentor)
 
-### 🔍 Subset Used in This Project:
+### Subset Used in This Project:
 Only the **lung tissue** classes were selected:
 - `Lung benign tissue`
 - `Lung adenocarcinoma`
 - `Lung squamous cell carcinoma`
 
-📖 **Original Publication**:  
+**Original Publication**:  
 Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM. *Lung and Colon Cancer Histopathological Image Dataset (LC25000)*. arXiv:1912.12142v1 [eess.IV], 2019  
 🔗 [Read on arXiv](https://arxiv.org/abs/1912.12142v1)
 
